@@ -1,0 +1,19 @@
+{
+  "name": "umi-block-migrate-helper",
+  "version": "0.1.0",
+  "description": "Add blockConfig to umi blocks automaticly",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yutingzhao1991/umi-block-migrate-helper.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yutingzhao1991/umi-block-migrate-helper/issues"
+  },
+  "homepage": "https://github.com/yutingzhao1991/umi-block-migrate-helper#readme"
+}
