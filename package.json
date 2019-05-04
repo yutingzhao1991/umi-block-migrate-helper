@@ -2,7 +2,9 @@
   "name": "umi-block-migrate-helper",
   "version": "0.1.0",
   "description": "Add blockConfig to umi blocks automaticly",
-  "main": "index.js",
+  "bin": {
+    "umi-block-migrate-helper": "index.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
