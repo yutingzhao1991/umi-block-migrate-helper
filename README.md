@@ -8,6 +8,8 @@
 }
 ```
 
+Why? for https://github.com/umijs/umi/pull/2311#pullrequestreview-230631363
+
 ## Usage
 
 ```shell
